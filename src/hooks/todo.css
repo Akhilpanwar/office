@@ -1,0 +1,59 @@
+.myBtn{
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 4px;
+
+    margin-left: 300px;
+    padding: 10px;
+}
+.myBtn-1{
+    font-size: small;
+    color: white;
+    margin: 4px;
+
+ width:60px;
+ background-color:darkcyan;
+ border:1px solid black;
+border-radius:5px ;
+
+
+}
+.input-1{
+
+   font-size: 30px;
+    border-radius:4px ;
+    margin-right: 10PX;
+    margin-top: 30px;
+   margin-left: 300px;
+  color:grey ;
+   width: 300px;
+   background-color:w;
+   border: 1px solid black;
+   height: 30px;
+}
+.MyInput{
+    font-family: 'Times New Roman', Times, serif;
+    color:grey;
+    border-radius: 5px;
+   border: 2px solid grey;
+   width: 400px;
+   height: 30px;
+
+
+}
+.myBtn-2{
+    font-size: large;
+    color: white;
+    margin: 4px;
+border: 1PX solid burlywood;
+ width:100px;
+ background-color:darkcyan;
+ border:1px solid black;
+border-radius:5px ;
+
+}
+.main{
+    background-Color: skyBlue;
+    border: 5px solid darkslategrey;
+    margin: 60px;
+}
